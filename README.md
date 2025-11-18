@@ -1,8 +1,7 @@
 # Retail Store Performance Analytics Dashboard
 
 The Retail Store Performance Analytics Dashboard is an interactive data analysis tool built using Python and Streamlit.
-It helps retailers, analysts, and business stakeholders quickly understand store performance through dynamic visualizations, KPI tracking, and category-level insights—simply by uploading a CSV file.
-
+ It helps retailers, analysts, and business stakeholders quickly understand store performance through dynamic visualizations, KPI tracking, and category-level insights—simply by uploading a CSV file.
 This project reflects practical, real-world analytics work and demonstrates skills in data cleaning, visualization, dashboard development, and business intelligence.
 
 # Key Features
