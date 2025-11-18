@@ -1,11 +1,11 @@
-📊 Retail Store Performance Analytics Dashboard
+# Retail Store Performance Analytics Dashboard
 
 The Retail Store Performance Analytics Dashboard is an interactive data analysis tool built using Python and Streamlit.
 It helps retailers, analysts, and business stakeholders quickly understand store performance through dynamic visualizations, KPI tracking, and category-level insights—simply by uploading a CSV file.
 
 This project reflects practical, real-world analytics work and demonstrates skills in data cleaning, visualization, dashboard development, and business intelligence.
 
-⭐ Key Features
+# Key Features
 🔹 Upload Your Own Dataset
 
 You can upload any retail sales CSV file, and the dashboard automatically processes and visualizes the data—no manual coding required.
@@ -60,7 +60,7 @@ Top revenue-generating products
 
 Export filtered datasets directly from the dashboard for reporting or further analysis.
 
-📁 Project Structure
+# Project Structure
 retail_store_performance/
 │
 ├── app/
@@ -74,7 +74,7 @@ retail_store_performance/
 │
 └── README.md
 
-🛠️ Technologies Used
+# Technologies Used
 
 Python
 
@@ -103,7 +103,7 @@ streamlit run app/retail_dashboard.py
 
 Once the dashboard opens in your browser, upload your dataset and explore the insights.
 
-🎯 Project Purpose
+# Project Purpose
 
 This dashboard was built to demonstrate practical experience in:
 
@@ -119,6 +119,6 @@ Real-world business problem-solving
 
 It is an excellent portfolio project for Data Analyst, Business Analyst, and Data Science internship applications.
 
-📬 Contact
+# Contact
 
 If you would like to enhance this project further—such as adding forecasting models, customer segmentation, or automated reporting—I’d be happy to help.
