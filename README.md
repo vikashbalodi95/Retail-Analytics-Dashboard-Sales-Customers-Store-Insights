@@ -1,123 +1,104 @@
 # Retail Store Performance Analytics Dashboard
+A clean and interactive Retail Analytics Dashboard built using Python, Pandas, Matplotlib, Seaborn, and Streamlit.  
+This project helps analyze sales performance, customer behavior, and store insights using an uploadable CSV dataset.  
+It is designed to reflect real-world data analyst responsibilities and is suitable for resume and portfolio use.  
 
-The Retail Store Performance Analytics Dashboard is an interactive data analysis tool built using Python and Streamlit.
- It helps retailers, analysts, and business stakeholders quickly understand store performance through dynamic visualizations, KPI tracking, and category-level insights—simply by uploading a CSV file.
-This project reflects practical, real-world analytics work and demonstrates skills in data cleaning, visualization, dashboard development, and business intelligence.
+# Project Overview
 
-# Key Features
-🔹 Upload Your Own Dataset
+Retail companies generate a huge amount of sales and customer data.
+This dashboard transforms raw CSV data into meaningful business insights, showing:
 
-You can upload any retail sales CSV file, and the dashboard automatically processes and visualizes the data—no manual coding required.
+● Sales trends
 
-🔹 KPI Overview
+● Store performance
 
-Instantly view important business metrics including:
+● Category-wise revenue
 
-Total Sales
+● Customer behavior
 
-Total Orders
+● Product-level analysis
 
-Total Profit
-
-Units Sold
-
-Average Order Value (AOV)
-
-Profit Margin
-
-🔹 Sales Trend Insights
-
-Analyze sales performance over time with:
-
-Daily / Weekly / Monthly trends
-
-Moving averages (7-day & 30-day)
-
-Clear, professional time-series charts
-
-🔹 Store Performance Comparison
-
-Identify top-performing and low-performing stores based on:
-
-Revenue
-
-Profit
-
-Order volume
-
-🔹 Category & Product Analysis
-
-Explore:
-
-Sales distribution by category
-
-Profit breakdown
-
-Top revenue-generating products
-
-🔹 Downloadable Data
-
-Export filtered datasets directly from the dashboard for reporting or further analysis.
-
-# Project Structure
-retail_store_performance/
-│
-├── app/
-│   └── retail_dashboard.py          # Main Streamlit application
-│
-├── data/
-│   └── sample_retail_data.csv       # Sample dataset for testing
-│
-├── eda/
-│   └── (optional analysis notes)    # Place your EDA files here
-│
-└── README.md
+The dashboard is fully interactive and easy to use.
 
 # Technologies Used
+Python || Pandas || NumPy || Matplotlib || Seaborn || Streamlit
+# Key Features
+Upload your retail CSV file
 
-Python
+●  Daily, monthly, and yearly sales trends
 
-Pandas
+●  Product and category-level revenue insights
 
-NumPy
+●  Store performance comparison
 
-Matplotlib
+●  Customer segmentation insights
 
-Seaborn
+●  Interactive charts and filters
 
-Streamlit
+●  Clean and responsive Streamlit UI
 
-Jupyter/EDA (optional)
+# Project Structure
+<pre>
+Retail-Analytics-Dashboard-Sales-Customers-Store-Insights/
+│
+├── app/
+│   └── retail_dashboard.py
+│
+├── data/
+│   └── retail_store_sample.csv
+│
+├── eda/
+│   └── (optional analysis files)
+│
+└── README.md
+</pre>
 
-These tools were selected to reflect real-world analytics workflows while keeping the project simple and accessible.
 
-▶️ Running the Project
-1️⃣ Install dependencies
+# How to Run the Project
+1. Clone the Repository
+git clone https://github.com/vikashbalodi95/Retail-Analytics-Dashboard-Sales-Customers-Store-Insights.git
+
+2. Install Dependencies
 pip install -r requirements.txt
 
-2️⃣ Launch the dashboard
+3. Launch the Dashboard
 streamlit run app/retail_dashboard.py
 
-3️⃣ Upload your CSV file
+# Insights You Can Explore
 
-Once the dashboard opens in your browser, upload your dataset and explore the insights.
+● Top-selling products
 
-# Project Purpose
+● Highest revenue-generating categories
 
-This dashboard was built to demonstrate practical experience in:
+● Store-wise performance
 
-Retail analytics
+● Seasonal or time-based sales trends
 
-Data processing & cleaning
+● Customer purchasing patterns
 
-Building interactive dashboards
+# Future Enhancements
 
-Visual communication of insights
+● Sales forecasting
 
-Real-world business problem-solving
+● Customer churn prediction
 
-It is an excellent portfolio project for Data Analyst, Business Analyst, and Data Science internship applications.
+● Store location analysis
 
-# Contact
+● Deployment on cloud
 
-If you would like to enhance this project further—such as adding forecasting models, customer segmentation, or automated reporting—I’d be happy to help.
+# Contributing
+
+Contributions are welcome.
+If you’d like to improve visualizations or add features, feel free to open a pull request.
+
+# Author
+
+**Vikash Balodi**  
+Email: **vikashbalodi95@gmail.com**  
+GitHub: **vikashbalodi95**  
+LinkedIn: https://www.linkedin.com/in/vikash-balodi-17824b398/
+
+
+
+
+
