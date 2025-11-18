@@ -6,17 +6,17 @@ Your help is appreciated and helps this project grow stronger for everyone.
 
 # How to Contribute
 
-You can contribute in several ways:
+● You can contribute in several ways:
 
-Fix bugs or issues
+● Fix bugs or issues
 
-Suggest new features or improvements
+● Suggest new features or improvements
 
-Improve documentation or examples
+● Improve documentation or examples
 
-Add new visualizations or analytics modules
+● Add new visualizations or analytics modules
 
-Optimize performance or clean up code
+● Optimize performance or clean up code
 
 All contributions are welcome.
 
@@ -56,15 +56,15 @@ Go to your fork and click New Pull Request, then describe your changes clearly.
 
 # Guidelines
 
-Write clear and meaningful commit messages
+● Write clear and meaningful commit messages
 
-Do not break existing functionality
+● Do not break existing functionality
 
-If adding new features, update relevant documentation
+● If adding new features, update relevant documentation
 
-Keep PRs focused on a single change
+● Keep PRs focused on a single change
 
-Be respectful and constructive in discussions
+● Be respectful and constructive in discussions
 
 # Reporting a Bug
 
@@ -81,8 +81,6 @@ What happened
 Steps to reproduce
 
 Expected behavior
-
-Screenshots/logs (optional)
 
 # Thank You
 
